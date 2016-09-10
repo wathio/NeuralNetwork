@@ -1,2 +1,3 @@
-# NeuralNetwork
-Codes(in Matlab/Octave) to train a 3 layers neural network to recognize hand-written digits from a set of training examples.
+# NeuralNetwork/Backpropagation.
+code to implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
+
